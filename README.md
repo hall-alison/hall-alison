@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm a new software developer and I'm learning how to code in a full stack bootcamp!
 
 <!--
 **hall-alison/hall-alison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
