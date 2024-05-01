@@ -1,8 +1,8 @@
-### Hi there 👋 I'm a new software developer and I'm learning how to code in a full stack bootcamp!
+
 
 <!--
 **hall-alison/hall-alison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋 I'm a new software developer and I'm learning how to code in a full stack bootcamp!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
